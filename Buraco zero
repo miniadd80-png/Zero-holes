@@ -1,0 +1,13 @@
+POST /auth/login
+POST /auth/register
+
+GET /reports
+POST /reports
+
+POST /reports/confirm
+
+GET /ranking
+
+GET /iqu
+
+GET /dashboard
